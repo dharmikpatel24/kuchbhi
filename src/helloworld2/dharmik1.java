@@ -15,6 +15,6 @@ public class dharmik1 {
        int setscore = 30; 
        System.out.print(setscore);
         System.out.print("helloworld");
-        System.out.print("how are you");
+        System.out.print("how are you 2");
     }
 }
